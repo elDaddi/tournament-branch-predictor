@@ -221,10 +221,7 @@ Demonstrates predictor selection behavior, BTB interaction, and branch predictio
 
 ## Authors
 
-Pratyush L Daddi  
-Adityaa Mehra  
-K.S. Sethurathnam
-Ridhi
+Pratyush L Daddi  Adityaa Mehra  K.S. Sethurathnam  Ridhi
 
 Electronics Engineering  
 IIT (BHU) Varanasi
