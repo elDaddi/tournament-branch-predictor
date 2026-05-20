@@ -1,6 +1,6 @@
 # Tournament Branch Predictor
 
-A synthesizable Verilog RTL implementation of a Tournament Branch Prediction Unit (BPU) for a 5-stage RISC-V pipelined processor, combining local and global prediction schemes with a dynamic choice predictor for adaptive branch prediction.
+A synthesizable Verilog implementation of a Tournament Branch Prediction Unit (BPU) for a 5-stage RISC-V pipelined processor, combining local and global prediction schemes with a dynamic choice predictor for adaptive branch prediction.
 
 The design additionally integrates a Branch Target Buffer (BTB) with tag-based validation and anti-aliasing logic to improve prediction accuracy and target resolution.
 
